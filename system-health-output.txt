@@ -1,0 +1,18 @@
+-----System Health Check-----
+Date: Mon Jan 19 07:47:25 AM UTC 2026
+
+Uptime:
+ 07:47:25 up  1:15,  1 user,  load average: 0.00, 0.02, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           8.7Gi       1.1Gi       7.0Gi        34Mi       981Mi       7.7Gi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           895M  1.6M  893M   1% /run
+/dev/sda2        25G  8.5G   15G  37% /
+tmpfs           4.4G     0  4.4G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           895M  116K  895M   1% /run/user/1000
